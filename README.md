@@ -1,4 +1,4 @@
-# 📡 Telecom Customer Churn Analysis  
+# Telecom Customer Churn Analysis  
 
 ## Overview 
 A telecom company was losing customers without knowing which profiles were most at risk. With a 26% churn rate discovered during analysis, the business needed to pinpoint the combination of contract type, service, and payment behaviour most predictive of churn — and create an actionable customer list for the retention team.
